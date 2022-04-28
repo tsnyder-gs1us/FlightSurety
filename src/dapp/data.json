@@ -1,0 +1,50 @@
+{
+	"airlines": [
+		{ 
+			"name": "ABC Airline"
+		},
+		{ 
+			"name": "North West Air"
+		},
+		{ 
+			"name": "North East Air"
+		},
+		{ 
+			"name": "Wildcat Air"
+		},
+		{ 
+			"name": "Eagle Air"
+		}
+	],
+	"flights": [
+		{ 
+			"flight": "ABC 980",
+			"timestamp": "04 Jan 2023 00:12:00 GMT"
+		},
+		{ 
+			"flight": "ABC 1200",
+			"timestamp": "08 Jan 2023 04:12:00 GMT"
+		},
+		{ 
+			"flight": "NWA 3392",
+			"timestamp": "04 Jan 2023 06:12:00 GMT"
+		}
+	],
+	"passengers": [
+		{ 
+			"name": "Gabriel Adair"
+		},
+		{ 
+			"name": "Nic Greyson"
+		},
+		{ 
+			"name": "Savannah Jeana"
+		},
+		{ 
+			"name": "Billie Taegan"
+		},
+		{ 
+			"name": "Erika Mariabella"
+		}
+	]
+}
