@@ -39,19 +39,19 @@ To build dapp for prod:
 
 Deploy the contents of the ./dapp folder
 
-## Notes To Review
+## Notes To Reviewer
 
-DAPP Front End Application is setup to demonstrate the following functionality 
-    -- Setup Airlines and Flights (This Happens On Initialize of Application)
-    -- Allow Passenger to Purchase Flight Insurance
-    -- Check Flight Info (Triggers Call to Oracle)
-    -- Check Credit Balance From Delayed Flights
+### DAPP Front End Application is setup to demonstrate the following functionality 
+    - Setup Airlines and Flights (This Happens On Initialize of Application)
+    - Allow Passenger to Purchase Flight Insurance
+    - Check Flight Info (Triggers Call to Oracle)
+    - Check Credit Balance From Delayed Flights
     
-Notes:
-    -- DAPP is setup to always use the same passenger 
-    -- DAPP checks to see if App Contract has been authorized to call Data Contract
-    -- Before Running Tests make sure to setup test accounts testConfig.js
-    -- Before Deploying Contracts make sure to set first airline account in 2_deploy_contracts.js
+### Notes:
+    - DAPP is setup to always use the same passenger 
+    - DAPP checks to see if App Contract has been authorized to call Data Contract
+    - Before Running Tests make sure to setup test accounts testConfig.js
+    - Before Deploying Contracts make sure to set first airline account in 2_deploy_contracts.js
 
 ## Resources
 
